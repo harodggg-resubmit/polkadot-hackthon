@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@polkadot/api": "^2.2.1",
+    "babel": "^6.23.0",
+    "n": "^6.7.0"
+  }
+}
