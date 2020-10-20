@@ -11,7 +11,6 @@ module.exports = {
 	    networkCheckTimeout: 30000,
       provider: () => new PrivateKeyProvider(privateKey, "https://rpc.testnet.moonbeam.network/", 43),
       network_id: 43,
-	    timeoutBlocks: 200,
     },
     ganache: {
       provider: () => new PrivateKeyProvider(privateKey, "http://localhost:8545/", 43),
