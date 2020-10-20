@@ -7,7 +7,7 @@ import "@openzeppelin/contracts/token/ERC20/ERC20Detailed.sol";
 contract MyToken is ERC20, ERC20Detailed {
     constructor(uint256 initialSupply)
         public
-        ERC20Detailed("MyToken", "MYTOK", 18)
+        ERC20Detailed("MyToken", "BTC", 18)
     {
         _mint(msg.sender, initialSupply);
     }
