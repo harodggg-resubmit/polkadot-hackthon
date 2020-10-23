@@ -8,12 +8,12 @@
 # 10,[ForklessUpgrade](https://github.com/harodggg/polkadot-hackthon/blob/main/ForklessUpgrade/forklessupgrade.png)
 ## time: (UTC) 2020-10-21 17:46
 
-# 11,[Build And Run A Local Phala Network](https://github.com/harodggg/polkadot-hackthon/tree/main/run_local_Node_phala)
+# 11,[Build And Run A Local Phala Network](https://github.com/harodggg/polkadot-hackthon/tree/main/run_local_Node_phala/README.md)
 ## time: (UTC) 2020-10-22 19:34
 
 # 12,[Deploy On Moonbase Alpha Using Truffle](https://github.com/harodggg/polkadot-hackthon/blob/main/deploy-erc20-moonbeam/READED.md)
 ## time: (UTC) 2020-10-22 20:12
 
-# 13,[[INTERMEDIATE CHALLENGE] FRAME Identity: Set An Identity On A Local --Dev Chain]()
+# 13,[[INTERMEDIATE CHALLENGE] FRAME Identity: Set An Identity On A Local --Dev Chain](https://github.com/harodggg/polkadot-hackthon/blob/main/idenity/README.md)
 ## time: (UTC) 2020-10-23  20:34
 
