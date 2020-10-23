@@ -14,3 +14,6 @@
 # 12,[Deploy On Moonbase Alpha Using Truffle](https://github.com/harodggg/polkadot-hackthon/blob/main/deploy-erc20-moonbeam/READED.md)
 ## time: (UTC) 2020-10-22 20:12
 
+# 13,[[INTERMEDIATE CHALLENGE] FRAME Identity: Set An Identity On A Local --Dev Chain]()
+## time: (UTC) 2020-10-23  20:34
+
