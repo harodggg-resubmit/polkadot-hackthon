@@ -17,3 +17,5 @@
 # 13,[[INTERMEDIATE CHALLENGE] FRAME Identity: Set An Identity On A Local --Dev Chain](https://github.com/harodggg/polkadot-hackthon/blob/main/idenity/README.md)
 ## time: (UTC) 2020-10-23  20:34
 
+# 14,[INTERMEDIATE CHALLENGE] Smart Contracts - Write An ERC-20 Smart Contract With Ink!]()
+## time: (UTC) 2020-10-25 7:40PM
