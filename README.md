@@ -21,3 +21,4 @@
 ## time: (UTC) 2020-10-25 7:40PM
 
 # 15,[INTERMEDIATE CHALLENGE FRAME Multisig](https://github.com/harodggg/polkadot-hackthon/tree/main/FRAME_Multisig)
+#3 time: (UTC) 2020-11-8 12:38PM
