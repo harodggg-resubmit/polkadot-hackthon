@@ -19,3 +19,5 @@
 
 # 14,[INTERMEDIATE CHALLENGE Smart Contracts-Write An ERC-20 Smart Contract With Ink!](https://github.com/harodggg/polkadot-hackthon/tree/main/write_an_erc_20_smart_contract)
 ## time: (UTC) 2020-10-25 7:40PM
+
+# 15,[INTERMEDIATE CHALLENGE FRAME Multisig](https://github.com/harodggg/polkadot-hackthon/tree/main/FRAME_Multisig)
