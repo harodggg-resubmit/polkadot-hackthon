@@ -1,0 +1,41 @@
+Arguments: 
+  /usr/local/bin/node /usr/local/bin/yarn install
+
+PATH: 
+  /home/harold/.cargo/bin:/home/harold/.local/bin:/home/harold/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/usr/local/go/bin:/home/harold/Desktop/14/polkadot-hackthon/readACPP/flutter/bin:/home/harold/.fzf/bin
+
+Yarn version: 
+  1.22.10
+
+Node version: 
+  14.5.0
+
+Platform: 
+  linux x64
+
+Trace: 
+  SyntaxError: /home/harold/Desktop/14/polkadot-hackthon/readACPP/package.json: Unexpected end of JSON input
+      at JSON.parse (<anonymous>)
+      at /usr/local/lib/node_modules/yarn/lib/cli.js:1625:59
+      at Generator.next (<anonymous>)
+      at step (/usr/local/lib/node_modules/yarn/lib/cli.js:310:30)
+      at /usr/local/lib/node_modules/yarn/lib/cli.js:321:13
+
+npm manifest: 
+  {
+    "name": "readACPP",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT",
+    "dependencies": {
+      "axios": "^0.21.0"
+    },
+    "scripts": {
+      "start": "node index.js"
+    }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
